@@ -29,6 +29,7 @@ https://www.accenture.com/gb-en/services/sustainability-index
 
 **Creativity**
 
+
 Novelty of solution
 
 Does the solution consider different aspects (e.g., UX, innovation, impact) or is it focusing on a single aspect
@@ -39,18 +40,19 @@ Does the combination of the technologies used make sense?
 
 **Value**
 
+
 Overall impact of solution
 
 Cost/benefit ratio justified?
 
 
 
-**Technologies / Methodologies **
+**Technologies / Methodologies**
+
 
 Tools used (e.g., NLP, linear regression models, cloud)
 
 Infrastructure of the solution (Effort? Feasibility? Cost?)
-
 
 ### Point of Contact
 
