@@ -4,10 +4,12 @@
 Sustainability is one of the biggest challenges that we face today. There are different ways to be more sustainable e.g., shift to renewable energies, sustainable ways of consumption and regulations. We believe that technology, especially AI, can be leveraged to contribute to a more sustainable world. Therefore, we would like to see how you could think of a way to leverage an AI solution (data science/data analysis/machine learning) that contributes to a more sustainable world. The possible solution can span multiple areas, e.g., Health Tech, Climate Tech, Urban Innovation and Mobility. 
 
 ### Case Pitch
-xxx
+[Pitch.pptx](https://github.com/START-Hack/Accenture-STARTHACK22/files/8305774/Pitch.pptx)
+
 
 ### Deep Dive Slides
-xxx
+[Deep dive.pptx](https://github.com/START-Hack/Accenture-STARTHACK22/files/8305775/Deep.dive.pptx)
+
 
 ### Resources
 https://data.europa.eu/en
